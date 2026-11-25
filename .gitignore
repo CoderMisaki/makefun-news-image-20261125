@@ -1,0 +1,9 @@
+# Kit files are tooling, not part of the entry — never commit them.
+news-image-20261125-kit/
+*-kit/
+cli/
+harness/
+__pycache__/
+out/
+*.tar.gz
+.DS_Store
